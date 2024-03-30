@@ -1,6 +1,7 @@
 Hey there! 👋  
 Welcome!
 🤓 I'm Anthony, 
+
 A Software engineer and developing developer (Always learning and impacting)
 Pretty much interested in Computer hardware, programming, web development and CAD drafting.
 - 🌱 I'm currently studying at Altschool, Software Engineering (FrontEnd - html, css, Javascript and React)
