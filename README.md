@@ -7,7 +7,7 @@ Pretty much interested in Computer hardware, programming, web development and CA
 - 🌱 I'm currently studying at Altschool, Software Engineering (FrontEnd - html, css, Javascript and React)
 Learning SQL, Vue, Python, DSL and Typscript on the side-walk.
 - 💞️ I’m looking forward to collaborate on and across board.
-- 📫 How to reach me - Here on github (...will update other means)
+- 📫 How to reach me - Here on github, twitter @anthoniorico. 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: Computers, reading/research, traveling...
 
